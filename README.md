@@ -1,1 +1,1 @@
-SEPM_LAB
+## Software Engineering and Project Management Lab
